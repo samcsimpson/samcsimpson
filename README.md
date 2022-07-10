@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">I am a freelancing fullstack web-designer, creating beautiful, responsive websites for you!</h3>
+<h3 align="center">I am a fullstack web-designer, creating beautiful, responsive websites for you!</h3>
 
 - 🌱 I’m currently learning **Node, React**
 
