@@ -21,7 +21,7 @@
 
 <h2>Projects</h2>
 <h3>Mr-Samdle</h3>
-<h4>No more tears in the class room!
+<h4>No more tears in the class room!<br/>
 Play Wordle and NEVER lose!</h4>
 
 ![MrSamdle](https://raw.githubusercontent.com/samcsimpson/Mr-Samdle/main/MrSamdle.gif)
