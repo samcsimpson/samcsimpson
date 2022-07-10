@@ -21,4 +21,4 @@
 
 <h3 > Mr-Samdle
 No more tears in the class room! Play Wordle and NEVER lose!</h3>
-![](https://github.com/samcsimpson/Mr-Samdle/blob/main/MrSamdle.gif)
+![https://github.com/samcsimpson/Mr-Samdle/blob/main/MrSamdle.gif]()
