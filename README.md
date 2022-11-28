@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/samcsimpson](https://github.com/samcsimpson)
+- 👨‍💻 All of my projects are available at [SamCSimpson.co.uk](http://samcsimpson.co.uk/)
 
 - 📫 How to reach me **scsimpson@live.com**
 
